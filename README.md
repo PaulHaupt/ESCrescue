@@ -1,13 +1,13 @@
 # ESCrescue
 Bind the ESC key to any unused key
 
-![screenshot](images/screenshot.png)
+![screenshot](images/screenshot.PNG)
 
 I lost this programs code, feel free to decompile it
 
 ## Download
 
-The latest stable release can be downloaded on [Here](https://github.com/PaulHaupt/ESCrescue/blob/master/ESCrescue.exe)
+The latest stable release can be downloaded [Here](https://github.com/PaulHaupt/ESCrescue/blob/master/ESCrescue.exe?raw=true)
 
 ## License
 
