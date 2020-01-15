@@ -7,7 +7,7 @@ I lost this programs code, feel free to decompile it
 
 ## Download
 
-The latest stable release can be downloaded [Here](https://github.com/PaulHaupt/ESCrescue/blob/master/ESCrescue.exe?raw=true)
+The latest stable release can be downloaded [here](https://github.com/PaulHaupt/ESCrescue/blob/master/ESCrescue.exe?raw=true)
 
 ## License
 
